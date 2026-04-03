@@ -1,4 +1,4 @@
-﻿# Byte-compiled / optimized / DLL files
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
@@ -215,3 +215,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+data/bert_checkpoints/
+data/bert_checkpoints_v2/
+mlflow.db
+mlruns/
+
+data/processed/
+data/results/
+data/bert_checkpoints/
+mlflow.db
+mlruns/
+.env
+.venv/
+__pycache__/
